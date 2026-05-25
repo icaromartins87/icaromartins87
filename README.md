@@ -35,5 +35,3 @@ Conseguir minha primeira oportunidade (ou recolocação) como Desenvolvedor.
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25"/>
   </a>
 </p>
-
-[![Icaro Martins Stats](https://github-readme-stats.vercel.app/api?username=icaromartins87)](https://github.com/anuraghazra/github-readme-stats)
